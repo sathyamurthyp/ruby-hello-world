@@ -1,6 +1,6 @@
 require 'sinatra'
 
 get '/' do
-	"Hello, World Ruby!!"
+	"Hello World Cont Delivery!!"
 end
 
